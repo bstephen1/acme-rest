@@ -1,0 +1,10 @@
+{
+    "id": 2, 
+    "name": {
+        "first": "jane", 
+        "last": "doe"
+    }, 
+    "interests": ["swimming", "pushups"], 
+    "latitude": 37.431572,
+    "longitude": -78.656891
+}
